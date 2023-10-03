@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": "May 2022 - Nov 2022",
+            "cardTitle": "Student - Fullstack JavaScript",
+            "cardSubtitle":"Rikkei Academy",
+            "cardDetailedText": " Study and practice to accumulate programming knowledge",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Aug 2017 - Sep 2021",
+            "cardTitle": "College student",
+            "cardSubtitle":"University of Transportation Technology",
+            "cardDetailedText": "Specialized in communications and computer networks",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }        
+        }
+    ]
+}

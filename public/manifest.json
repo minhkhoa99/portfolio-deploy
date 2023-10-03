@@ -1,0 +1,15 @@
+{
+  "short_name": "Minh Khoa",
+  "name": "Minh Khoa - Portfolio",
+  "icons": [
+    {
+      "src": "images/logo_home.png",
+      "type": "image/png",
+      "sizes": "425x225"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
