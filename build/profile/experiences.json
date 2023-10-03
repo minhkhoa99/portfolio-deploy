@@ -1,0 +1,42 @@
+{
+    "experiences": [
+        {
+            "title": "Rikkei Soft",
+            "subtitle": "Developer",
+            "workType": "Backend Nodejs",
+            "workDescription": [
+                "Join the myForex project, participate in the data crawl project",
+                "Complete well the phases of the data crawling and myForex project",
+                "Support and develop a few other projects",
+                "Complete assigned tasks well"
+            ],
+            "dateText": "02/2023 – Present"
+        },
+        {
+            "title": "Rikkei Academy",
+            "subtitle": "Fullstack Javascript ",
+            "workType": "Fresher",
+            "workDescription": [
+                "Participate in web projects, write API for the project",
+                "Use HTML, CSS, ReactJs, ant design to design websites",               
+                "Use nodejs to build project development api.",
+                "With the MySql and mongo database platforms, set up a storage database for each project."
+            ],
+            "dateText": "12/2022 – 01/2023"
+        },
+        {
+            "title": "AQ Vietnam Information Technology Joint Stock Company",
+            "subtitle": "Technical staff",
+            "workType": "Operating the system",
+            "workDescription": [
+                "Main role: Administer and operate the VDI system for Hanoi Department of Finance partner.",
+                "Achievements acquired:",
+                "Successfully completed the role of monitoring and configuring the server while working in Tien Giang, planning the server survey.",
+                "Successfully complete server configuration monitoring and plan to set up a network model at the Tax Department.",
+                "Participate in server operation process at Hanoi Department of Finance.",
+                "Deploying virtualization at National Political Truth Publishing House. - Server configuration deployment work in Tien Giang."
+            ],
+            "dateText": "09/20XX – 01/20YY"
+        }
+    ]
+}

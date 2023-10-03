@@ -1,0 +1,82 @@
+{
+    "projects" : [
+       
+        {
+            "title": "Crapping data",
+            "bodyText": "- Learn about proposed technology for the project development team.\n - Use nodejs to write an API to develop the function of crawling data from websites requested by customers. \n - Use playwright to build auto login function, auto crawl data, run crawl data in parallel... Detect changes to the website and send notification emails.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "#"
+                }
+            ],
+            "tags" : [
+                "Nodejs",
+                "express",
+                "lambda",
+                "knex",
+                "playwright", 
+                "moment"
+            ]
+        },
+        {
+            "title": "MyForex",
+            "bodyText": "- API development for myForex market website \n - Perform API writing tasks according to assigned requirements.\n - Support team members.\n - Complete the assigned task well.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
+                }
+            ],
+            "tags" : [
+                "Nodejs",
+                "express", 
+                "lambda",
+                "knex",
+                "moment"
+            ]
+        },
+        {
+            "title": "Blogs website",
+            "bodyText": "- Use nodejs to develop functional API for the project.\n - Design admin page using React.\n - Create a function for admins to manage users who post the most, post section for admins, and like statistics.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/minhkhoa99/blogs_website"
+                }
+            ],
+            "tags" : [
+                "Javascript",
+                "SCSS",
+                "CSS",
+                "nodejs", 
+                "Sequelize", 
+                "React", 
+                "MySQL", 
+                "nodemailer. "
+            ]
+        },
+        {
+            "title": " Rating app ",
+            "bodyText": "- Make a specific plan, divide tasks among team members, find documents related to the project, and build a project framework.\n - Use React to design the Admin admin page.\n - Support team members for self-testing, UT.\n - Use MongoDB user storage database.\n - Do chat with Socket using MongoDB, develop API functions for the website.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/minhkhoa99/test_unipos_project"
+                }
+            ],
+            "tags" : [
+                "JavaScript", 
+                "ReactJS",  
+                "nodejs", 
+                "express", 
+                "MySQL", 
+                "MongoDB", 
+                "Sequelize", 
+                "Bootstrap",
+                "Socket"
+            ]
+        }
+       
+    ]
+}
